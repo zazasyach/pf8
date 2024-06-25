@@ -1,0 +1,24 @@
+{
+  "resources/images/coba.png": {
+    "file": "assets/coba-DhEj4eXi.png",
+    "src": "resources/images/coba.png"
+  },
+  "resources/images/foto.png": {
+    "file": "assets/foto-CmLWdfFT.png",
+    "src": "resources/images/foto.png"
+  },
+  "resources/images/true.png": {
+    "file": "assets/true-BqPW8dLj.png",
+    "src": "resources/images/true.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BziwsqBe.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-D-sv12UV.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
